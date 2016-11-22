@@ -7,7 +7,14 @@
 	padding: 0px 10px 0px 10px;
 	text-align: :right;
 }
+nav {
+	background-color: #7a0177;
+}
 .navbar a{
 	color:black;
 	text-decoration:none;
+}
+
+body{
+	background-color: #c51b8a;
 }
